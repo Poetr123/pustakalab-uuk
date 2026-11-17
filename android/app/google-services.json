@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34303203278",
+    "project_id": "pustakalab-11",
+    "storage_bucket": "pustakalab-11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34303203278:android:6bc89ce8f676b5d776fd9f",
+        "android_client_info": {
+          "package_name": "com.example.pustakalab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVc_V_5nxUNq0IBbS-ld3l5u2Lf8K3qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
